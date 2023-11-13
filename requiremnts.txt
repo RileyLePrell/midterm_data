@@ -1,5 +1,0 @@
-streamlit
-import random
-altair 
-numpy
-pandas
